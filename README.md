@@ -1,7 +1,7 @@
 ![logo](1630053356860mbahead.jpg)
 <h1 align="center">Hi 👋, I'm Pratham rameshwar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham145&label=Profile%20views&color=0e75b6&style=flat" alt="pratham145" /> </p>
 
@@ -21,10 +21,23 @@
 
 - ⚡ Fun fact **I’ve coded in over 5 different programming languages!**
 
+```markdown
+## A little more about me
+
+const Pratham = {
+  code: ["Javascript", "Nodejs", "SQL", "C++"],
+  askMeAbout: ["webdev", "Databases", "Programming"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","Tailwind css", "React.js"],
+      backend: ["Nodejs", "JS"],
+      techStack: ["Full Stack Development"]
+  }
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham rameshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham rameshwar" height="30" width="40" /></a>
-<a href="https://instagram.com/pratham_kumar.r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_kumar.r_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pratham44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratham44" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratham kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratham kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratham12322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham12322" height="30" width="40" /></a>
